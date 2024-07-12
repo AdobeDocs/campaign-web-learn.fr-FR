@@ -1,6 +1,6 @@
 ---
-title: Créer et améliorer le contenu des e-mails à l’aide de l’assistant de contenu
-description: Découvrez comment utiliser l’assistant de contenu généré par IA pour créer et améliorer le contenu des emails.
+title: Créer et améliorer le contenu des e-mails à l’aide de l’Assistant de contenu
+description: Découvrez comment utiliser l’Assistant de contenu généré par l’IA pour créer et améliorer le contenu des e-mails.
 feature: Email Design
 role: User
 level: Beginner
@@ -13,15 +13,15 @@ hide: true
 badgeAlpha: label="Version alpha" type="informative" before-title="true"
 exl-id: 9502667e-0819-4cfb-84c9-ea68f07a8400
 source-git-commit: 1f603df605fa02b70880c0e0741db5927e17f7c5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '78'
-ht-degree: 57%
+ht-degree: 100%
 
 ---
 
-# Créer et améliorer le contenu des e-mails à l’aide de l’assistant de contenu
+# Créer et améliorer le contenu des e-mails à l’aide de l’Assistant de contenu
 
-Découvrez comment utiliser l’assistant de contenu généré par IA pour créer et améliorer le contenu des emails.
+Découvrez comment utiliser l’Assistant de contenu généré par l’IA pour créer et améliorer le contenu des e-mails.
 
 >[!NOTE]
 >
@@ -29,4 +29,4 @@ Découvrez comment utiliser l’assistant de contenu généré par IA pour crée
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425796/?learn=on)
 
-Pour plus d’informations à ce sujet, voir la [documentation du produit](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/content/content-assistant/generative-gs).
+Pour plus d’informations à ce sujet, voir la [documentation du produit](https://experienceleague.adobe.com/fr/docs/campaign-web/v8/msg/email/content/content-assistant/generative-gs).
