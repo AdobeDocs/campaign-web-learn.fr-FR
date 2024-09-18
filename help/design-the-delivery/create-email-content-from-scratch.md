@@ -10,9 +10,9 @@ last-substantial-update: 2024-02-13T00:00:00Z
 jira: KT-14395
 exl-id: a10e4d21-9c84-447c-9414-77aa307d0bff
 source-git-commit: 311ef614c2256ec5faea0a6b1f12fa212a979da9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '98'
-ht-degree: 70%
+ht-degree: 100%
 
 ---
 
@@ -24,6 +24,6 @@ Découvrez comment naviguer dans le Concepteur d’e-mail. Découvrez comment st
 
 >[!NOTE]
 >
->L’accès au menu Assets est limité aux utilisateurs disposant d’une licence Adobe Experience Essentials active. Si vous ne possédez pas cette licence, le menu Assets ne sera pas disponible.
+>L’accès au menu Ressources est limité aux personnes disposant d’une licence Adobe Experience Essentials active. Si vous ne possédez pas cette licence, le menu Assets ne sera pas disponible.
 
 Pour plus d’informations sur cette fonctionnalité, voir la [documentation du produit](https://experienceleague.adobe.com/docs/campaign-web/v8/msg/email/create-email.html?lang=fr).
