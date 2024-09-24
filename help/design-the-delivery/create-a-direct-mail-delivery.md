@@ -10,14 +10,16 @@ last-substantial-update: 2024-09-04T00:00:00Z
 jira: KT-14398
 hidefromtoc: false
 exl-id: f8470477-8b4a-4310-8325-53732c77129f
-source-git-commit: 1b71a1c67906d17b547c1d6089affafb272b9257
+source-git-commit: e3b149963f2fd306669facbc6f90200113ebf169
 workflow-type: tm+mt
-source-wordcount: '54'
-ht-degree: 100%
+source-wordcount: '108'
+ht-degree: 50%
 
 ---
 
 # Créer une diffusion par courrier
+
+Le canal Courrier est un canal hors ligne qui vous permet de produire des fichiers pour diffuser en masse des lettres personnalisées à vos clients, telles que des cartes postales, des prospectus ou des catalogues. Lors de la création d&#39;une diffusion courrier, Adobe Campaign génère automatiquement un fichier d&#39;extraction contenant tous les profils ciblés et les données sélectionnées, telles que les adresses postales et les attributs de profil.
 
 Découvrez comment créer une diffusion par courrier dans l’interface d’utilisation web d’Adobe Campaign v8.
 
