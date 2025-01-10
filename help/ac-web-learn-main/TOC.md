@@ -5,9 +5,9 @@ user-guide-title: Interface utilisateur web d’Adobe Campaign
 user-guide-description: Découvrez comment utiliser les fonctionnalités et les capacités de l’interface utilisateur web d’Adobe Campaign.
 breadcrumb-title: Interface utilisateur web – Tutoriels
 auto-video-transcripts: true
-source-git-commit: 6104839cdc0007219afecfd651bb55edf1aff3e2
-workflow-type: ht
-source-wordcount: '154'
+source-git-commit: 4cc7d83096f08728a5fb7ad7972be5953ca62126
+workflow-type: tm+mt
+source-wordcount: '159'
 ht-degree: 100%
 
 ---
@@ -29,6 +29,7 @@ ht-degree: 100%
    + [Créer une diffusion par courrier](/help/design-the-delivery/create-a-direct-mail-delivery.md)
 + Profils et audiences {#profiles-and-audiences}
    + [Explorer les profils](/help/profiles-and-audiences/explore-profiles.md)
+   + [Créer et gérer des profils de test](/help/profiles-and-audiences/create-and-manage-test-profiles.md)
    + [Gérer et créer des audiences](/help/profiles-and-audiences/manage-and-build-audiences.md)
    + [Créer une audience Experience Platform](/help/profiles-and-audiences/create-an-audience-with-experience-platform.md)
 + Workflows {#workflows}
