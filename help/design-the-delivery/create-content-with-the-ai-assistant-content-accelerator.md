@@ -1,6 +1,6 @@
 ---
-title: Créer du contenu avec l’Assistant IA dans Campaign - Accélérateur de contenu
-description: Découvrez comment utiliser l’Assistant IA dans Campaign - Accélérateur de contenu pour générer du contenu adapté aux canaux pour les campagnes 1:1 en temps réel et par lots qui résonnent avec l’audience cible.
+title: Créer du contenu avec l’assistant d’IA pour la génération de contenu
+description: Découvrez comment utiliser l’assistant d’IA pour la génération de contenu afin de générer du contenu compatible avec les canaux pour les campagnes 1:1 et par lots en temps réel qui trouvent un écho auprès de l’audience cible.
 feature: Email Design
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -10,17 +10,17 @@ duration: 206
 last-substantial-update: 2024-09-11T00:00:00Z
 hidefromtoc: false
 hide: false
-source-git-commit: 6104839cdc0007219afecfd651bb55edf1aff3e2
-workflow-type: ht
-source-wordcount: '99'
-ht-degree: 100%
+exl-id: 4204e19b-3b4b-42f1-ae60-1c4c6b44039e
+source-git-commit: 5786cc852e17ec39c43480ccfd6051a2a8f3bd72
+workflow-type: tm+mt
+source-wordcount: '95'
+ht-degree: 22%
 
 ---
 
+# Créer du contenu avec l’assistant d’IA pour la génération de contenu
 
-# Créer du contenu avec l’Assistant IA dans Campaign - Accélérateur de contenu
-
-Découvrez comment utiliser l’Assistant IA dans Campaign - Accélérateur de contenu pour générer du contenu adapté aux canaux pour les campagnes 1:1 en temps réel et par lots qui résonnent avec l’audience cible.
+Découvrez comment utiliser l’assistant d’IA pour la génération de contenu afin de générer du contenu compatible avec les canaux pour les campagnes 1:1 et par lots en temps réel qui trouvent un écho auprès de l’audience cible.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433569/?learn=on)
 
