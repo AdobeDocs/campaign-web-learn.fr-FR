@@ -20,6 +20,6 @@ ht-degree: 100%
 
 Découvrez comment accéder à l’interface d’utilisation de Campaign Web et y naviguer, et comment personnaliser les listes de stock.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427278/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453424/?learn=on&captions=fre_fr)
 
 Voir [Commencer avec Adobe Campaign Web](https://experienceleague.adobe.com/docs/campaign-web/v8/start/get-started.html?lang=fr) pour plus d’informations sur la navigation dans l’interface d’utilisation web de Campaign v8.

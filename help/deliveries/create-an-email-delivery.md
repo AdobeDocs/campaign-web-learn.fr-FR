@@ -20,6 +20,6 @@ ht-degree: 100%
 
 Découvrez comment créer entièrement une diffusion par e-mail, définir l’audience, concevoir le contenu, simuler l’aperçu et envoyer un BAT.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425866/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454007/?learn=on&captions=fre_fr)
 
 Pour plus d’informations sur cette fonctionnalité, voir la [documentation du produit](https://experienceleague.adobe.com/docs/campaign-web/v8/msg/gs-deliveries.html?lang=fr).

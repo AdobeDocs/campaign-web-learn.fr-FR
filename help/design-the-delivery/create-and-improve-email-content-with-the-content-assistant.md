@@ -27,6 +27,6 @@ Découvrez comment utiliser l’Assistant de contenu généré par l’IA pour c
 >
 > Cette fonctionnalité est actuellement disponible dans sa version alpha et peut être modifiée sans préavis.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425796/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452071/?learn=on&captions=fre_fr)
 
 Pour plus d’informations à ce sujet, voir la [documentation du produit](https://experienceleague.adobe.com/fr/docs/campaign-web/v8/msg/email/content/content-assistant/generative-gs).

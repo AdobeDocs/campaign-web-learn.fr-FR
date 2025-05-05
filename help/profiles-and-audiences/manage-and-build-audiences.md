@@ -20,6 +20,6 @@ ht-degree: 98%
 
 Découvrez comment créer et gérer des audiences, comment sélectionner des audiences pour une diffusion et définir des populations témoins.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425861/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453204/?learn=on&captions=fre_fr)
 
 Pour plus d’informations sur cette fonctionnalité, voir la [documentation du produit](https://experienceleague.adobe.com/docs/campaign-web/v8/audiences/audiences/create-audience.html?lang=fr).

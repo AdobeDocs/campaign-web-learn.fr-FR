@@ -20,7 +20,7 @@ ht-degree: 100%
 
 Découvrez comment naviguer dans le Concepteur d’e-mail. Découvrez comment structurer et concevoir entièrement un e-mail, et personnaliser et tester votre e-mail.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425867/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453566/?learn=on&captions=fre_fr)
 
 >[!NOTE]
 >

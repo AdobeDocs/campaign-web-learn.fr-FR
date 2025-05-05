@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Découvrez comment prévisualiser le contenu et la personnalisation des e-mails, envoyer des diffusions de test (BAT) à des personnes destinataires ou abonnées spécifiques à des fins de test et de validation, ou encore vérifier le rendu des e-mails dans les clients populaires de bureau, mobiles et web.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425862/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450339/?learn=on&captions=fre_fr)

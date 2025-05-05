@@ -23,6 +23,6 @@ Le canal Courrier est un canal hors ligne qui vous permet de produire des fichie
 
 Découvrez comment créer une diffusion par courrier dans l’interface d’utilisation web d’Adobe Campaign v8.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433316/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3451785/?learn=on&captions=fre_fr)
 
 Pour plus d’informations, voir la [documentation du produit de l’interface d’utilisation de Campaign Web](https://experienceleague.adobe.com/fr/docs/campaign-web/v8/msg/direct-mail/gs-direct-mail).
