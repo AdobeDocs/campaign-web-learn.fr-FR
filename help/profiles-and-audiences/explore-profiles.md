@@ -22,4 +22,4 @@ Découvrez comment accéder aux profils, les gérer et les explorer à l’aide 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427293/?learn=on)
 
-Pour plus d’informations sur cette fonctionnalité, voir la [documentation du produit](https://experienceleague.adobe.com/docs/campaign-web/v8/audiences/work-with-profiles/about-recipients.html).
+Pour plus d’informations sur cette fonctionnalité, voir la [documentation du produit](https://experienceleague.adobe.com/docs/campaign-web/v8/audiences/work-with-profiles/about-recipients.html?lang=fr).

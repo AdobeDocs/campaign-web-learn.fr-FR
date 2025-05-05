@@ -23,4 +23,4 @@ Découvrez le fonctionnement des workflows et comment créer un workflow de cibl
 >[!VIDEO](https://video.tv.adobe.com/v/3425873/?learn=on)
 
 
-Pour plus d’informations sur cette fonctionnalité, voir la [documentation du produit](https://experienceleague.adobe.com/docs/campaign-web/v8/wf/gs-workflows.html).
+Pour plus d’informations sur cette fonctionnalité, voir la [documentation du produit](https://experienceleague.adobe.com/docs/campaign-web/v8/wf/gs-workflows.html?lang=fr).
