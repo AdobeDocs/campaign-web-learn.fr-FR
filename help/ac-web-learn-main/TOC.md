@@ -5,10 +5,10 @@ user-guide-title: Interface utilisateur web d’Adobe Campaign
 user-guide-description: Découvrez comment utiliser les fonctionnalités et les capacités de l’interface utilisateur web d’Adobe Campaign.
 breadcrumb-title: Interface utilisateur web – Tutoriels
 auto-video-transcripts: true
-source-git-commit: c0586330363a33e23b77c911c984aece9bb6ae83
-workflow-type: ht
-source-wordcount: '157'
-ht-degree: 100%
+source-git-commit: a30c5951a9e7cc4ec1c33e59d59e9bda11c6041f
+workflow-type: tm+mt
+source-wordcount: '162'
+ht-degree: 96%
 
 ---
 
@@ -24,10 +24,10 @@ ht-degree: 100%
    + [Concevoir entièrement le contenu d’un e-mail](/help/design-the-delivery/create-email-content-from-scratch.md)
    + [Créer un email en chargeant le fichier HTML](/help/design-the-delivery/create-an-email-by-uploading-html.md)
    + [Prévisualiser et tester une diffusion par e-mail](/help/deliveries/preview-and-proof-an-email-delivery.md)
-   + [Créer du contenu à l’aide de l’assistant IA pour la génération de contenu](/help/design-the-delivery/create-content-using-the-ai-assistant.md)
    + [Créer une diffusion par courrier](/help/design-the-delivery/create-a-direct-mail-delivery.md)
 + Gestion de contenu {#content-management}
    + [Améliorer une diffusion avec du contenu dynamique](/help/design-the-delivery/enhance-a-delivery-with-dynamic-content.md)
+   + [Créer du contenu à l’aide de l’assistant IA pour la génération de contenu](/help/design-the-delivery/create-content-using-the-ai-assistant.md)
 + Profils et audiences {#profiles-and-audiences}
    + [Explorer les profils](/help/profiles-and-audiences/explore-profiles.md)
    + [Créer et gérer des profils de test](/help/profiles-and-audiences/create-and-manage-test-profiles.md)
@@ -35,6 +35,7 @@ ht-degree: 100%
    + [Créer une audience Experience Platform](/help/profiles-and-audiences/create-an-audience-with-experience-platform.md)
 + Workflows {#workflows}
    + [Créer un workflow de ciblage](/help/workflows/create-a-targeting-workflow.md)
+   + [Configurer l’activité de code de script Java](/help/workflows/configure-java-script-code-activity.md)
 + Enregistrements Experience League Live {#exl-live-recordings}
    + [Amélioration de la nouvelle interface d’utilisation d’Adobe Campaign Web](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-29-24.html?lang=fr){target="_blank"}
 + [Tutoriels sur la console cliente Campaign](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=fr){target="_blank"}
