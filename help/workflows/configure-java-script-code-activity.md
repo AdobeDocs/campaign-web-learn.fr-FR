@@ -22,6 +22,6 @@ Découvrez comment utiliser efficacement l’activité Code JavaScript dans Adob
 
 Ce tutoriel couvre les modes de script simples et avancés. Il explique les paramètres d’exécution et la gestion des erreurs. Vous y trouverez des exemples concrets, tels que le ciblage des profils VIP, la transformation des données et le déclenchement d’opérations conditionnelles.
 
->[!VIDEO](https://video.tv.adobe.com/v/3464918/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3464921/?learn=on&enablevpops&captions=fre_fr)
 
 Voir la [documentation du produit](https://experienceleague.adobe.com/fr/docs/campaign-web/v8/wf/design-workflows/javascript-code) pour plus d’informations sur cette fonctionnalité.
