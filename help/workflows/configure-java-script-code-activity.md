@@ -24,4 +24,4 @@ Ce tutoriel couvre les modes de script simples et avancés. Il explique les para
 
 >[!VIDEO](https://video.tv.adobe.com/v/3464918/?learn=on&enablevpops)
 
-Voir la [documentation du produit](https://experienceleague.adobe.com/en/docs/campaign-web/v8/wf/design-workflows/javascript-code) pour plus d’informations sur cette fonctionnalité.
+Voir la [documentation du produit](https://experienceleague.adobe.com/fr/docs/campaign-web/v8/wf/design-workflows/javascript-code) pour plus d’informations sur cette fonctionnalité.
