@@ -5,10 +5,10 @@ user-guide-title: Interface utilisateur web d’Adobe Campaign
 user-guide-description: Découvrez comment utiliser les fonctionnalités et les capacités de l’interface utilisateur web d’Adobe Campaign.
 breadcrumb-title: Interface utilisateur web – Tutoriels
 auto-video-transcripts: true
-source-git-commit: a30c5951a9e7cc4ec1c33e59d59e9bda11c6041f
+source-git-commit: ad2377dde49c1ab0f805c998d407d04ffe659c26
 workflow-type: tm+mt
-source-wordcount: '162'
-ht-degree: 96%
+source-wordcount: '165'
+ht-degree: 95%
 
 ---
 
@@ -19,12 +19,13 @@ ht-degree: 96%
 + Commencer {#getting-started}
    + [Guide d’adoption d’Adobe Campaign v8](https://experienceleague.adobe.com/fr/docs/campaign-web/acs-to-ac/home)
    + [Explorer l’interface d’utilisation d’Adobe Campaign Web](/help/get-started/explore-the-web-ui.md)
+   + [Démonstration interactive](https://app.teamwalnut.com/player/?demoId=08e65781-49bb-41a9-a238-2723a4478015&screenId=03a9500a-8b4f-411c-922f-748ace9c108a&showGuide=true&showGuidesToolbar=true&showHotspots=true&openGuidesToolbar=false)
 + Messages et diffusions {#messages-and-deliveries}
-   + [Créer une diffusion par e-mail](/help/deliveries/create-an-email-delivery.md)
+   + [Création d’une diffusion par e-mail](/help/deliveries/create-an-email-delivery.md)
    + [Concevoir entièrement le contenu d’un e-mail](/help/design-the-delivery/create-email-content-from-scratch.md)
    + [Créer un email en chargeant le fichier HTML](/help/design-the-delivery/create-an-email-by-uploading-html.md)
    + [Prévisualiser et tester une diffusion par e-mail](/help/deliveries/preview-and-proof-an-email-delivery.md)
-   + [Créer une diffusion par courrier](/help/design-the-delivery/create-a-direct-mail-delivery.md)
+   + [Création d’une diffusion courrier](/help/design-the-delivery/create-a-direct-mail-delivery.md)
 + Gestion de contenu {#content-management}
    + [Améliorer une diffusion avec du contenu dynamique](/help/design-the-delivery/enhance-a-delivery-with-dynamic-content.md)
    + [Créer du contenu à l’aide de l’assistant IA pour la génération de contenu](/help/design-the-delivery/create-content-using-the-ai-assistant.md)
