@@ -10,7 +10,7 @@ jira: KT-14388
 duration: 592
 exl-id: 8c2f3847-5aca-4b7a-bf86-1212a741dfdd
 source-git-commit: 9dd078a55d56e62c260a528585b33f786c492455
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '75'
 ht-degree: 100%
 
@@ -20,6 +20,6 @@ ht-degree: 100%
 
 Découvrez comment accéder à l’interface d’utilisation de Campaign Web et y naviguer, et comment personnaliser les listes de stock.
 
->[!VIDEO](https://video.tv.adobe.com/v/3453424/?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3427278/?learn=on)
 
 Voir [Commencer avec Adobe Campaign Web](https://experienceleague.adobe.com/docs/campaign-web/v8/start/get-started.html?lang=fr) pour plus d’informations sur la navigation dans l’interface d’utilisation web de Campaign v8.
