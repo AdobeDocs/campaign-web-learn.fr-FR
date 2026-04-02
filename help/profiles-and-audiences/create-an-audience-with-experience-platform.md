@@ -1,6 +1,6 @@
 ---
 title: Créer une audience Experience Platform
-description: Découvrez comment créer une destination pour mapper une audience Experience Platform à Adobe Campaign.
+description: Découvrez comment créer une destination pour mapper une audience Experience Platform vers Adobe Campaign.
 feature: Audiences
 role: User
 level: Beginner
@@ -10,14 +10,14 @@ last-substantial-update: 2024-02-29T00:00:00Z
 jira: KT-14577
 exl-id: 828c4964-1b47-46c2-a8be-2cc40c01ef2d
 source-git-commit: a20bff7850298b1a280435a369b5a9494bc2eb27
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '42'
-ht-degree: 28%
+ht-degree: 100%
 
 ---
 
 # Créer une audience Experience Platform
 
-Découvrez comment créer une destination pour utiliser une audience Experience Platform dans Adobe Campaign.
+Découvrez comment créer une destination pour utiliser une audience Experience Platform dans Adobe Campaign.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427635/?learn=on)

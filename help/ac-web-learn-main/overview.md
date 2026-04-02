@@ -7,9 +7,9 @@ recommendations: noDisplay, noCatalog
 level: Beginner, Intermediate, Experienced
 exl-id: 866568a7-0763-43f9-af75-0c6d70ea082a
 source-git-commit: c2d7d7f669d4b1501f90c3e160b18a6955482139
-workflow-type: tm+mt
-source-wordcount: '305'
-ht-degree: 91%
+workflow-type: ht
+source-wordcount: '400'
+ht-degree: 100%
 
 ---
 
@@ -19,7 +19,7 @@ Adobe Campaign offre une plateforme permettant de concevoir des expériences cr
 
 **Essayez la [démonstration cliquable](https://app.teamwalnut.com/player/?demoId=08e65781-49bb-41a9-a238-2723a4478015&screenId=03a9500a-8b4f-411c-922f-748ace9c108a&showGuide=true&showGuidesToolbar=true&showHotspots=true&openGuidesToolbar=false)!**
 
-La personnalisation de la plateforme Campaign en fonction des besoins de l’entreprise et des données, ainsi que la connexion à d’autres systèmes, sont gérées dans la console cliente Campaign. Par conséquent, vous pouvez accéder à certains paramètres et fonctionnalités, les créer ou les gérer uniquement depuis la console cliente Campaign. Consultez le [Guide de la console cliente et web de Campaign](https://experienceleague.adobe.com/docs/campaign-web/v8/start/capability-matrix.html?lang=fr){target="_blank"} pour obtenir un aperçu des paramètres et fonctionnalités qui apparaîtront dans le futur.
+La personnalisation de la plateforme Campaign en fonction des besoins de l’entreprise et des données, ainsi que la connexion à d’autres systèmes, sont gérées dans la console cliente Campaign. Par conséquent, vous pouvez accéder à certains paramètres et fonctionnalités, les créer ou les gérer uniquement depuis la console cliente Campaign. Consultez le [Guide de la console client et web de Campaign](https://experienceleague.adobe.com/docs/campaign-web/v8/start/capability-matrix.html?lang=fr){target="_blank"} pour obtenir un aperçu des paramètres et fonctionnalités qui apparaîtront dans le futur.
 
 >[!INFO]
 > 

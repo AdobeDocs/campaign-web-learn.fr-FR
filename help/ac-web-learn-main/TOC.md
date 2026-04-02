@@ -6,9 +6,9 @@ user-guide-description: Découvrez comment utiliser les fonctionnalités et les 
 breadcrumb-title: Interface utilisateur web – Tutoriels
 auto-video-transcripts: true
 source-git-commit: 9dd078a55d56e62c260a528585b33f786c492455
-workflow-type: tm+mt
-source-wordcount: '165'
-ht-degree: 95%
+workflow-type: ht
+source-wordcount: '232'
+ht-degree: 100%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 95%
 + Commencer {#getting-started}
    + [Démonstration interactive](https://app.teamwalnut.com/player/?demoId=08e65781-49bb-41a9-a238-2723a4478015&screenId=03a9500a-8b4f-411c-922f-748ace9c108a&showGuide=true&showGuidesToolbar=true&showHotspots=true&openGuidesToolbar=false)
    + [Guide d’adoption d’Adobe Campaign v8](https://experienceleague.adobe.com/fr/docs/campaign-web/acs-to-ac/home)
-   + [Explorer l’interface d’utilisation d’Adobe Campaign Web](/help/get-started/explore-the-web-ui.md)
+   + [Explorer l’interface utilisateur web d’Adobe Campaign](/help/get-started/explore-the-web-ui.md)
 + Messages et diffusions {#messages-and-deliveries}
    + [Création d’une diffusion par e-mail](/help/deliveries/create-an-email-delivery.md)
    + [Concevoir entièrement le contenu d’un e-mail](/help/design-the-delivery/create-email-content-from-scratch.md)
@@ -36,7 +36,7 @@ ht-degree: 95%
    + [Créer une audience Experience Platform](/help/profiles-and-audiences/create-an-audience-with-experience-platform.md)
 + Workflows {#workflows}
    + [Créer un workflow de ciblage](/help/workflows/create-a-targeting-workflow.md)
-   + [Configurer l’activité de code de script Java](/help/workflows/configure-java-script-code-activity.md)
+   + [Configurer l’activité de code JavaScript](/help/workflows/configure-java-script-code-activity.md)
 + Enregistrements Experience League Live {#exl-live-recordings}
    + [Amélioration de la nouvelle interface d’utilisation d’Adobe Campaign Web](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-29-24.html?lang=fr){target="_blank"}
 + [Tutoriels sur la console cliente Campaign](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=fr){target="_blank"}

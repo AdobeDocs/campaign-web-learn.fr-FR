@@ -11,7 +11,7 @@ jira: KT-14395
 exl-id: a10e4d21-9c84-447c-9414-77aa307d0bff
 source-git-commit: 311ef614c2256ec5faea0a6b1f12fa212a979da9
 workflow-type: ht
-source-wordcount: '98'
+source-wordcount: '109'
 ht-degree: 100%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 100%
 
 Découvrez comment naviguer dans le Concepteur d’e-mail. Découvrez comment structurer et concevoir entièrement un e-mail, et personnaliser et tester votre e-mail.
 
->[!VIDEO](https://video.tv.adobe.com/v/3453566/?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3425867/?learn=on)
 
 >[!NOTE]
 >
