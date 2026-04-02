@@ -20,7 +20,7 @@ ht-degree: 100%
 
 Découvrez le fonctionnement des workflows et comment créer un workflow de ciblage.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425873/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453972/?captions=fre_fr&learn=on)
 
 
 Pour plus d’informations sur cette fonctionnalité, voir la [documentation du produit](https://experienceleague.adobe.com/docs/campaign-web/v8/wf/gs-workflows.html?lang=fr).

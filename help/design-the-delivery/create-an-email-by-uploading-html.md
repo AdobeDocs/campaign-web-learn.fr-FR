@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Découvrez comment créer un e-mail en chargeant un fichier HTML, comment le rendre compatible avec le concepteur d’e-mail et comment le convertir en modèle.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427633/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447034/?captions=fre_fr&learn=on)
