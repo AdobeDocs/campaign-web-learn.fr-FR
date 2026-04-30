@@ -10,7 +10,7 @@ duration: 206
 last-substantial-update: 2025-06-09T00:00:00Z
 exl-id: 4204e19b-3b4b-42f1-ae60-1c4c6b44039e
 source-git-commit: e7356ef028111687eeebb8a1d7e1e0f58de37e05
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 100%
 
@@ -20,7 +20,7 @@ ht-degree: 100%
 
 Découvrez comment utiliser l’accélérateur de contenu de l’assistant IA d’Adobe pour générer et personnaliser rapidement des e-mails marketing, y compris les objets, le corps du texte et les images, tout en intégrant des ressources approuvées par la marque pour des raisons de cohérence et de conformité.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463766/?captions=fre_fr&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463762/?learn=on&enablevpops)
 
 ## Ressources supplémentaires
 
