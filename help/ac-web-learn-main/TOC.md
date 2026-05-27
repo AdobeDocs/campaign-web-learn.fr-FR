@@ -6,7 +6,7 @@ user-guide-description: Découvrez comment utiliser les fonctionnalités et les 
 breadcrumb-title: Interface utilisateur web – Tutoriels
 auto-video-transcripts: true
 source-git-commit: 9dd078a55d56e62c260a528585b33f786c492455
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '232'
 ht-degree: 100%
 
