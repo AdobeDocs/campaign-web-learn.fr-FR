@@ -38,6 +38,6 @@ ht-degree: 100%
 
 Découvrez comment rendre le contenu du message dynamique à l’aide de l’éditeur d’expression pour personnaliser votre message ou ajouter du contenu conditionnel.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425795/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3505239/?captions=fre_fr&learn=on&enablevpops)
 
 Consultez la documentation du produit pour plus d’informations sur [la façon de rendre votre contenu dynamique](https://experienceleague.adobe.com/fr/docs/campaign-web/v8/content/dynamic-content/gs-personalization).
